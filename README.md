@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ultimatetau
 - 👀 I’m interested in Quantum Information
-- 🌱 I’m currently learning graduate physics and engineering
+- 🌱 I’m currently learning graduate physics and quantum engineering
 
 - 📫 How to reach me: dillion.cottrill@stonybrook.edu
 
