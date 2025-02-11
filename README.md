@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dillion Cottrill
-- 👀 I’m interested in computational modeling & Data Science
-- 🌱 I’m currently pursuing a full time role or internship
+- 👀 I’m interested in computational modeling of biological systems
+- 🌱 I’m currently pursuing a full time PhD in Physics
 - 📫 How to reach me: dillion.cottrill@stonybrook.edu
 
 <!---
